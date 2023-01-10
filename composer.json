@@ -1,0 +1,15 @@
+{
+    "name": "ashot/trans",
+    "authors": [
+        {
+            "name": "Ashot",
+            "email": "ashot.swh@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "classmap": [
+            "App/"
+        ]
+    }
+}

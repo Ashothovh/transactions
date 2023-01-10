@@ -1,0 +1,11 @@
+{
+  "1": {
+    "sender_id": "1",
+    "receiver_id": "2",
+    "comment": "C first transfer",
+    "amount": 300,
+    "due_date": "2022-11-28",
+    "date": "1666937309",
+    "transaction_type": 3
+  }
+}
