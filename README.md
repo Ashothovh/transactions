@@ -1,5 +1,5 @@
 # transactions
-Financial transactions system
+## Financial transactions system
 
 Composer used to implement the autoloading for the project.
 
@@ -17,9 +17,9 @@ Note: We have 2 JSON files in Database folder for saving data: accounts.json and
 Note: We have 3 Accounts in accounts.json file to implement transactions between them
 Note: Change the variable values to see different transactions process
 
-SOLID principles are used during creating of interfaces and classes.
+### SOLID principles are used during creating of interfaces and classes.
 
-For creatring of transaction process the Factory Design Pattern is used (see the Transactions folder).
-The factory pattern is used to create transaction object each time when we calling one of the transactions.
+### For creatring of transaction process the Factory Design Pattern is used (see the Transactions folder).
+### The Factory pattern is used to create transaction object each time when we calling one of the transactions.
 
 In TransactionHelper.php file written the logic for running separately each transaction by calling exactly that class.
